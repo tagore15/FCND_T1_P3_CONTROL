@@ -44,6 +44,6 @@ PASS: ABS(Quad2.Pos.X) was less than 0.100000 for at least 1.250000 seconds
 PASS: ABS(Quad2.Yaw) was less than 0.100000 for at least 1.000000 seconds
 PASS: ABS(Quad2.PosFollowErr) was less than 0.250000 for at least 3.000000 seconds
 ```
-![Udacity's FCND Simulator](./image1.png)
+![Udacity's FCND Simulator](./image1.PNG)
 
-![Udacity's FCND Simulator](./image2.png)
+![Udacity's FCND Simulator](./image2.PNG)
